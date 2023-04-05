@@ -1,0 +1,42 @@
+.text-45px {
+  font-size: 45px;
+}
+.text-black {
+  color: black;
+}
+.text-25 {
+  font-size: 25px;
+}
+.text-30 {
+  font-size: 30px;
+}
+.text-35 {
+  font-size: 35px;
+}
+.weight700 {
+  font-weight: 700;
+}
+.borderradius1 {
+  border-radius: 10px;
+}
+.weight600 {
+  font-weight: 600;
+}
+.weight300 {
+  font-weight: 300;
+}
+.text-40 {
+  font-size: 40px;
+}
+.cardheight1 {
+  width: 50vh;
+  font-family: Montserrat, sans-serif;
+}
+/* height: 60vh; */
+.logoSize1 {
+  width: 10vh;
+  height: 10vh;
+}
+.footerimg {
+  width: 50vh;
+}
